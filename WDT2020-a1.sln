@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WDT2020-a1", "WDT2020-a1\WDT2020-a1.csproj", "{12BCFE65-B814-4CA8-8F7B-35D70A997206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WDT2020-a1.Tests", "WDT2020-a1.Tests\WDT2020-a1.Tests.csproj", "{AD733530-AAE2-4A3B-938B-3445F82B3761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12BCFE65-B814-4CA8-8F7B-35D70A997206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BCFE65-B814-4CA8-8F7B-35D70A997206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BCFE65-B814-4CA8-8F7B-35D70A997206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BCFE65-B814-4CA8-8F7B-35D70A997206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD733530-AAE2-4A3B-938B-3445F82B3761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD733530-AAE2-4A3B-938B-3445F82B3761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD733530-AAE2-4A3B-938B-3445F82B3761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD733530-AAE2-4A3B-938B-3445F82B3761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
